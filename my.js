@@ -1,7 +1,4 @@
-'use strict';
 
-/*
-///////////////////////////////////////
 // Activating Strict Mode
 let hasDriversLicense = false;
 const passTest = true;
